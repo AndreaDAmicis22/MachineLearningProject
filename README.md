@@ -1,7 +1,7 @@
 # README: Predicting Alcohol Consumption in Youth Using Machine Learning
 ### Overview
 
-Alcohol consumption among youth is a significant public health concern, requiring effective interventions and analysis. This project employs machine learning techniques to investigate how various everyday choices, particularly in the scholastic environment, influence alcohol consumption among students.
+Alcohol consumption among youth is a significant public health concern, requiring effective interventions and analysis. This project employs machine learning techniques to investigate how various everyday choices, particularly in the scholastic environment, influence alcohol consumption among students. The dataset was retrieved from https://www.kaggle.com/datasets/uciml/student-alcohol-consumption.
 
 The dataset used in this study was collected during the 2005-2006 academic year from two schools in Portugal's Alentejo region. This research aims to predict alcohol consumption levels using classification methods and analyze the contributing factors.
 Objectives
