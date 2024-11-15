@@ -73,18 +73,19 @@ By analyzing the results, we identified key factors influencing alcohol consumpt
 
 ## Installation
 
-1. **Download the Dataset**
+1. **Download the Dataset**: 
    Download the dataset using the link provided in the repository or from your preferred source. Make sure the dataset file is in the correct folder for import into KNIME.
 
-2. **Download the KNIME Workflow File**
+2. **Download the KNIME Workflow File**:
    Download the KNIME workflow file (with `.knwf` extension) from the repository.
 
-3. **Load the KNIME Workflow into Your Workspace**
+3. **Load the KNIME Workflow into Your Workspace**:
    - Open KNIME Analytics Platform.
    - Go to **File** > **Import KNIME Workflow...**
    - Select the `.knwf` file you downloaded and click **Finish**. The workflow will be loaded into your workspace.
+   - Add the correct path to read `.CSV` correctly
 
-4. **Execute the Nodes**
+4. **Execute the Nodes**:
    Once the workflow is loaded, you can execute the nodes:
    - Select all the nodes in the workflow.
    - Right-click and select **Execute All** to run the entire workflow.
